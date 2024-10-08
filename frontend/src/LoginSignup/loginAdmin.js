@@ -67,7 +67,7 @@ const LoginForm = () => {
             </div>
           </NavLink>
           <h2 className="text-3xl font-semibold mb-4">
-            Welcome Back, Business Owner!
+            Welcome Back, Admin!
           </h2>
           <p className="text-gray-600 mb-8">
             Enter your credentials to access and manage your services

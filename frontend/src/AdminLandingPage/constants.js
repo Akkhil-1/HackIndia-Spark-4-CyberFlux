@@ -66,12 +66,6 @@ export const navigation = [
     url: "#contactus",
   },
   {
-    id: "4",
-    title: "Add Buisness",
-    url: "#buisness",
-    onlyMobile: true,
-  },
-  {
     id: "5",
     title: "Sign in",
     url: "#login",
@@ -251,16 +245,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "User Management",
-    text: " Admins can view, manage, and track user accounts, including registration details, booking history, and preferences.",
+    title: "Student Management",
+    text: " Admins can view, manage, and track user accounts, including registration details and preferences.",
     backgroundUrl: benefitCard1,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Booking Management",
-    text: " Centralized dashboard showing all bookings in real-time, with options to filter by date, service, location, and status.",
+    title: "Document Management",
+    text: " Centralized dashboard showing all documents in real-time, with options to filter by date, service, location, and status.",
     backgroundUrl: benefitCard2,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -268,8 +262,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Service & Inventory Management",
-    text: "Manage and update services offered, including pricing, availability, and descriptions.",
+    title: "Form & Scholarship Management",
+    text: "Manage and update services offered.",
     backgroundUrl: benefitCard3,
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -277,7 +271,7 @@ export const benefits = [
   {
     id: "3",
     title: "Reporting & Analytics",
-    text: "Generate reports on booking trends, customer demographics, peak times, and financial performance.",
+    text: "Generate reports on scholarship, student demographics, peak times, and financial performance.",
     backgroundUrl: benefitCard4,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,

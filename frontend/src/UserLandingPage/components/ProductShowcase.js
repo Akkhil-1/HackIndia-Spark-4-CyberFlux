@@ -19,10 +19,10 @@ const ProductShowcase = () => {
         <div className='container'>
         <div className='max-w-[540px] mx-auto'>
         <div className='flex justify-center'>
-            <div className='text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight mx-24 text-black'>Boost your bookings</div>
+            <div className='text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight mx-24 text-black'>Boost your life</div>
             </div>
-            <h2 className='text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#591B5F] text-transparent bg-clip-text mt-5'>A more effective way to track progress of bookings</h2>
-            <p className='text-center text-[22px] leading-[30px] tracking-tighy text-[#000000] mt-5 '>Effortlessly make your reservations without waiting in queues.</p>
+            <h2 className='text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#591B5F] text-transparent bg-clip-text mt-5'>A more effective way to track progress of scholarships</h2>
+            <p className='text-center text-[22px] leading-[30px] tracking-tighy text-[#000000] mt-5 '>Effortlessly make your scholarships without waiting in queues.</p>
             </div>
             <div className='relative'>
             <img src={bye} alt='productimage' className='mt-10 ml-10'/>

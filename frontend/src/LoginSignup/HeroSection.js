@@ -38,8 +38,8 @@ const HeroSection = () => {
         }`}
       >
         <div>
-          <h1 className="text-4xl font-bold mb-4">Elevate Your Business</h1>
-          <p className="text-xl">Join our platform to reach new clients and expand your reach</p>
+          <h1 className="text-4xl font-bold mb-4">Help the Students</h1>
+          <p className="text-xl">Join our platform to evaluate the student forms</p>
         </div>
       </div>
     </div>

@@ -70,15 +70,6 @@ const Hero = () => {
             </span>
             Finance
           </button>
-
-          {/* <button
-            className="px-7 py-4 rounded-lg w-[100px] font-medium inline-flex items-center justify-center tracking-tight bg-[#0F0C17] text-white ml-7"
-            
-          >
-            <FaRegUser/>
-            onClick={() => navigate("/AdminLandingPage")}
-            Admin
-          </button> */}
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient">

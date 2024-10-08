@@ -44,7 +44,7 @@ const HeroSection = () => {
       >
         <div>
           <h1 className="text-4xl font-bold mb-4">Make Your Plans Happen</h1>
-          <p className="text-xl">Start now and access exclusive deals from trusted small businesses.</p>
+          <p className="text-xl">Start now and access exclusive scholarships from Government.</p>
         </div>
       </div>
     </div>

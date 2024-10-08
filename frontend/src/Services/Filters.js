@@ -39,16 +39,8 @@ const Filters = ({ onFilterChange }) => {
                 <input
                     type="text"
                     name="businessType"
-                    placeholder="Business Type"
+                    placeholder="Scholarship Type"
                     value={filters.businessType}
-                    onChange={handleChange}
-                    className="p-2 w-full border border-gray-300 rounded bg-gray-100 placeholder-gray"
-                />
-                <input
-                    type="number"
-                    name="priceRange"
-                    placeholder="Max Price"
-                    value={filters.priceRange}
                     onChange={handleChange}
                     className="p-2 w-full border border-gray-300 rounded bg-gray-100 placeholder-gray"
                 />

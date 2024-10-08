@@ -77,7 +77,7 @@ const RegisterForm = () => {
           </NavLink>
           <h2 className="text-3xl font-semibold mb-4">Get Started with Us!</h2>
           <p className="text-gray-600 mb-8">
-            New to our platform? Register today to connect with local clients.
+            New to our platform? Register today to connect with local students.
           </p>
           <form onSubmit={handleSubmit}>
             <div className="mb-4">

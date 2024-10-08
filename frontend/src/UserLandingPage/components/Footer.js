@@ -15,8 +15,6 @@ const Footer = () => {
                 <nav className='flex flex-col gap-6 mt-6 md:flex-row md:justify-center'>
                     <a href="#about">About</a>
                     <a href="#features">Features</a>
-                    <a href="#customers">Customers</a>
-                    <a href="#pricing">Pricing</a>
                     <a href="#help">Help</a>
                     <a href="#careers">Careers</a>
                 </nav>

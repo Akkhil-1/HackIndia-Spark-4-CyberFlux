@@ -70,18 +70,18 @@ const RegisterFormUser = () => {
                 height: "auto",
               }}
             >
-              <img
+              {/* <img
                 src={homeIcon}
                 alt="Home Icon"
                 style={{ width: "auto", height: "auto" }}
-              />
+              /> */}
             </div>
           </NavLink>
           <h2 className="text-3xl font-semibold text-black mb-4">
             Start Your Journey
           </h2>
           <p className="text-gray-600 mb-8">
-            New to our platform? Register and connect with top local businesses.
+            New to our platform? Register and connect with the latest scholarships from government.
           </p>
           <form onSubmit={handleSubmit}>
             <div className="mb-4">
